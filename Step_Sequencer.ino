@@ -1,5 +1,5 @@
 /*
-                      Step Sequencier
+                      Step Sequencer
                       Vernon Billingsley c2021
 
                       8 Step Sequencer for the
